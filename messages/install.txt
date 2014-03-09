@@ -1,8 +1,0 @@
-
-Molokai-Pastel
-==============
-
-WARNING: this color scheme stopped active development.
-the continuation of this work is located here:
-
-https://github.com/Ociidii-Works/Pastel-Paws
