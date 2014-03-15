@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Molokai-Plus</string>
+	<string>Pastel-Paws</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -1281,14 +1281,14 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>b566733e-1824-437f-83d7-3e283cc218bc</string>
+	<string>a1024e0c-3033-4f5b-a544-5ca156b8680e</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.molokai_plus</string>
+	<string>theme.dark.pastel_paws</string>
 	<key>author</key>
 	<string>Voaxeyr</string>
 	<key>comment</key>
-	<string>A hybrid of the Legacy and Pastel themes</string>
+	<string>A colorful theme including many, many definitions. Based on Monokai/Molokai</string>
 </dict>
 </plist>
