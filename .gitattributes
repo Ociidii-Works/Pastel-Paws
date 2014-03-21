@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
-* -text
+* text=auto
+*.txt text
+*.c text
+*.h text
+*.jpg binary
