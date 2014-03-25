@@ -1,5 +1,5 @@
-/*      VIM color Theme test
-        Source: https://code.google.com/p/vimcolorschemetest/
+/*  VIM color Theme test
+    Source: https://code.google.com/p/vimcolorschemetest/
 */
 
 #define UNICODE
