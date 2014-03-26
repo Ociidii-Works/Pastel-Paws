@@ -15,10 +15,14 @@ You can add this repository to package control to avoid waiting for releases and
 
 ###Preview pictures (not always 100% up to date)
 
+**Sandard version**
+
 [![Preview][thumb]][full]
 
-**Spacegray Preview**
-we have a version compatible with the [Spacegray](https://github.com/kkga/spacegray) theme
+**[Spacegray](https://github.com/kkga/spacegray) version**
+
+using `Pastel Paws - Spacegray.tmTheme`
+
 [![Spacegray Preview][sgthumb]][sgfull]
 
 [thumb]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/thumbnail.png
