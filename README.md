@@ -15,7 +15,7 @@ You can add this repository to package control to avoid waiting for releases and
 
 ###Preview pictures (not always 100% up to date)
 
-**Sandard version**
+**Standard version**
 
 [![Preview][thumb]][full]
 
