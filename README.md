@@ -7,24 +7,21 @@ A colorful theme with many, many definitions.
 * Supports more syntax and plugins than many color schemes. (at the time of writing)
 * Originally based on Monokai/Molokai, it evolved into something unique.
 
-This theme was tested in [Sublime Text 2][3] and [Sublime Text 3][4].
+This theme was tested in [Sublime Text 2](http://www.sublimetext.com/2) and [Sublime Text 3](http://sublimetext.com/3).
 
 ###Bleeding edge?
 
-You can add this repository to package control to avoid waiting for releases and always be up-to-date, using [this method][5].
+You can add this repository to package control to avoid waiting for releases and always be up-to-date, using [this method](http://www.macdrifter.com/2012/08/install-sublime-packages-from-github.html).
 
 ###Preview pictures (not always 100% up to date)
 
-[![Preview][1]][2]
+[![Preview][thumb]][full]
 
 **Spacegray Preview**
+we have a version compatible with the [Spacegray](https://github.com/kkga/spacegray) theme
+[![Spacegray Preview][sgthumb]][sgfull]
 
-[![Spacegray Preview][6]][7]
-
-[1]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/thumbnail.png
-[2]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/full.png
-[3]: http://www.sublimetext.com/2
-[4]: http://sublimetext.com/3
-[5]: http://www.macdrifter.com/2012/08/install-sublime-packages-from-github.html
-[6]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/spacegray_thumbnail.png
-[7]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/spacegray_full.png
+[thumb]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/thumbnail.png
+[full]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/full.png
+[sgthumb]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/spacegray_thumbnail.png
+[sgfull]: https://raw.githubusercontent.com/Ociidii-Works/Pastel-Paws.tmTheme/master/preview/spacegray_full.png
