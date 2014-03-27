@@ -6,6 +6,7 @@ A colorful theme with many, many definitions.
 
 * Supports more syntax and plugins than many color schemes. (at the time of writing)
 * Originally based on Monokai/Molokai, it evolved into something unique.
+* [Spacegray](https://github.com/kkga/spacegray) support with `Pastel Paws - Spacegray.tmTheme`
 
 This theme was tested in [Sublime Text 2](http://www.sublimetext.com/2) and [Sublime Text 3](http://sublimetext.com/3).
 
@@ -19,9 +20,7 @@ You can add this repository to package control to avoid waiting for releases and
 
 [![Preview][thumb]][full]
 
-**[Spacegray](https://github.com/kkga/spacegray) version**
-
-using `Pastel Paws - Spacegray.tmTheme`
+**Spacegray version**
 
 [![Spacegray Preview][sgthumb]][sgfull]
 
