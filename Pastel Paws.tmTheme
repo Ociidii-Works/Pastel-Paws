@@ -28,7 +28,7 @@
 				<key>gutter</key>
 				<string>#24272b</string>
 				<key>gutterForeground</key>
-				<string>#8d8d8d</string>
+				<string>#455a65</string>
 				<key>minimapBorder</key>
 				<string>#555555</string>
 				<key>activeGuide</key>
@@ -438,7 +438,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#181d1f</string>
+				<string>#26292d</string>
 				<key>foreground</key>
 				<string>#7e927c</string>
 			</dict>
