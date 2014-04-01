@@ -1,6 +1,3 @@
-## Warning: Github user Pentago seems to have copied my work in violation of the GPL v2 License.
-- After I refused to merge a pull request, he claimed he was going to **fork** it, then proceeded to *steal* my original work.
-
 ## Pastel Paws
 
 A colorful theme with many, many definitions.
