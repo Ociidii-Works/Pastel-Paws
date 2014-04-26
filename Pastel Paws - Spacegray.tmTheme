@@ -59,72 +59,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Bracket Angle</string>
-			<key>scope</key>
-			<string>brackethighlighter.angle</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c3f653</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bracket Curly</string>
-			<key>scope</key>
-			<string>brackethighlighter.curly</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c3f653</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bracket Default</string>
-			<key>scope</key>
-			<string>brackethighlighter.default</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#46c8ff</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bracket Round</string>
-			<key>scope</key>
-			<string>brackethighlighter.round</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#d8d8d8</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bracket Square</string>
-			<key>scope</key>
-			<string>brackethighlighter.square</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#c3f653</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bracket Tag</string>
-			<key>scope</key>
-			<string>brackethighlighter.tag</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#ffb655</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Built-in constant</string>
 			<key>scope</key>
 			<string>constant.language,string.constant,support.constant,constant,meta.property-value support.constant.named-color.css, meta.property-value constant</string>
@@ -171,31 +105,31 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Coffee brace</string>
+			<string>Bracket</string>
 			<key>scope</key>
-			<string>meta.brace.round.coffee,meta.brace.square.coffee</string>
+			<string>meta.brace</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#f4f2a8</string>
+				<string>#989898</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Coffee curleys</string>
+			<string>Bracket Highlight</string>
 			<key>scope</key>
-			<string>meta.brace.curly.coffee</string>
+			<string>brackethighlighter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#edff92</string>
+				<string>#46c8ff</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Coffee dots</string>
+			<string>Dots</string>
 			<key>scope</key>
-			<string>meta.delimiter.method.period.coffee</string>
+			<string>meta.delimiter.method.period</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -204,9 +138,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Coffee embeded</string>
+			<string>Punctuation (embeded)</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded.coffee</string>
+			<string>punctuation.section.embedded</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -215,9 +149,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Coffee instance var</string>
+			<string>Instance variable</string>
 			<key>scope</key>
-			<string>variable.other.readwrite.instance.coffee</string>
+			<string>variable.other.readwrite.instance</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -259,9 +193,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CSS @import</string>
+			<string>@import</string>
 			<key>scope</key>
-			<string>keyword.control.at-rule.import.css</string>
+			<string>keyword.control.at-rule.import</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -808,6 +742,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Operators</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#a7a88a</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>PHP Namespaces</string>
 			<key>scope</key>
 			<string>support.other.namespace, entity.name.type.namespace</string>
@@ -1094,7 +1039,7 @@
 			<key>name</key>
 			<string>Twig Keywords</string>
 			<key>scope</key>
-			<string>keyword.control.twig</string>
+			<string>keyword.control</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
