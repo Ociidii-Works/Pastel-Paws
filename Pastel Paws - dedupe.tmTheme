@@ -1245,8 +1245,7 @@
                 <key>foreground</key>
                 <string>#D02000</string>
             </dict>
-        </dict>
-    </array>
+        </dict></array>
 	<key>uuid</key>
 	<string>a1024e0c-3033-4f5b-a544-5ca156b8680e</string>
 	<key>colorSpaceName</key>
