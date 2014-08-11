@@ -22,7 +22,7 @@
 				<key>invisibles</key>
 				<string>#1f2223</string>
 				<key>lineHighlight</key>
-				<string>#383838</string>
+				<string>#242424</string>
 				<key>selection</key>
 				<string>#2a2a2a</string>
 				<key>gutter</key>
@@ -32,7 +32,7 @@
 				<key>minimapBorder</key>
 				<string>#d0d0d0</string>
 				<key>activeGuide</key>
-				<string>#707070</string>
+				<string>#2b2b2b</string>
 				<key>findHighlight</key>
 				<string>#706d63</string>
 				<key>guide</key>
@@ -135,7 +135,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#67ad9d</string>
+				<string>#c5854d</string>
 			</dict>
 		</dict>
 		<dict>
@@ -175,9 +175,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Bracket</string>
+			<string>Coffee Bracket</string>
 			<key>scope</key>
-			<string>meta.brace</string>
+			<string>meta.brace.round.coffee,meta.brace.square.coffee</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -199,7 +199,7 @@
 			<key>name</key>
 			<string>Dots</string>
 			<key>scope</key>
-			<string>meta.delimiter.method.period</string>
+			<string>meta.delimiter.method.period.coffee</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -210,7 +210,7 @@
 			<key>name</key>
 			<string>Punctuation (embeded)</string>
 			<key>scope</key>
-			<string>punctuation.section.embedded</string>
+			<string>punctuation.section.embedded.coffee</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -221,11 +221,33 @@
 			<key>name</key>
 			<string>Instance variable</string>
 			<key>scope</key>
-			<string>variable.other.readwrite.instance</string>
+			<string>variable.other.readwrite.instance.coffee</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#edff92</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coffee vars</string>
+			<key>scope</key>
+			<string>variable.assignment.coffee variable.assignment.coffee</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Variables (Constants)</string>
+			<key>scope</key>
+			<string>constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#aa6953</string>
 			</dict>
 		</dict>
 		<dict>
@@ -263,9 +285,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>@import</string>
+			<string>CSS @import</string>
 			<key>scope</key>
-			<string>keyword.control.at-rule.import</string>
+			<string>keyword.control.at-rule.import.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -453,7 +475,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#efff92</string>
+				<string>#b8af45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -649,7 +671,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8ee1dd</string>
+				<string>#498c46</string>
 			</dict>
 		</dict>
 		<dict>
@@ -831,7 +853,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#efff92</string>
+				<string>#b8af45</string>
 			</dict>
 		</dict>
 		<dict>
@@ -936,7 +958,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#ec9a68</string>
+				<string>#4d8bb9</string>
 			</dict>
 		</dict>
 		<dict>
@@ -949,7 +971,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#bc9683</string>
+				<string>#ac84bb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1113,7 +1135,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#9ddba5</string>
+				<string>#538052</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1317,7 +1339,7 @@
 			<key>name</key>
 			<string>Twig Keywords</string>
 			<key>scope</key>
-			<string>keyword.control</string>
+			<string>keyword.control.twig</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
