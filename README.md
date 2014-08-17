@@ -1,10 +1,10 @@
 ## Pastel Paws
 
-A colorful theme with many, many definitions.
+A colorful theme easy on the eyes
 
 ###Features:
 
-* Supports more syntax and plugins than many color schemes. (at the time of writing)
+* Supports a lot of syntax and plugins
 * Originally based on Monokai/Molokai, it evolved into something unique.
 * [Spacegray](https://github.com/kkga/spacegray) support with `Pastel Paws - Spacegray.tmTheme`
 
