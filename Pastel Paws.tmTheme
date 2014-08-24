@@ -1499,7 +1499,7 @@
 	<key>semanticClass</key>
 	<string>theme.dark.pastel_paws</string>
 	<key>author</key>
-	<stringXenhat</string>
+	<string>Xenhat</string>
 	<key>comment</key>
 	<string>colorful theme including many, many definitions. Based on Monokai&#x2f;Molokai</string>
 </dict>
