@@ -22,9 +22,9 @@
 				<key>invisibles</key>
 				<string>#1f2223</string>
 				<key>lineHighlight</key>
-				<string>#242424</string>
+				<string>#2D2830</string>
 				<key>selection</key>
-				<string>#2a2a2a</string>
+				<string>#362C3C</string>
 				<key>gutter</key>
 				<string>#1F2124</string>
 				<key>gutterForeground</key>
