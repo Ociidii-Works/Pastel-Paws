@@ -32,7 +32,7 @@
 				<key>minimapBorder</key>
 				<string>#d0d0d0</string>
 				<key>activeGuide</key>
-				<string>#2b2b2b</string>
+				<string>#353535</string>
 				<key>findHighlight</key>
 				<string>#706d63</string>
 				<key>guide</key>
