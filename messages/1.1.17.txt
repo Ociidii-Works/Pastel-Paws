@@ -1,0 +1,8 @@
+Pastel-Paws 1.1.17
+-------------------------
+
+I did some destructive changes to the theme in the previous update and did I upset a few people doing so.
+
+I kept a copy of the preferred version as `Pastel-Paws - Vintage` to keep a point of reference in the future, moved the new changes to the Nightberry variant and reverted the main file to be like Vintage for now.
+
+Sorry folks! Gomenasai!
