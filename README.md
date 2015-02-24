@@ -14,7 +14,9 @@ This theme was tested in [Sublime Text 2](http://www.sublimetext.com/2) and [Sub
 
 You can add this repository to package control to avoid waiting for releases and always be up-to-date, using [this method](http://www.macdrifter.com/2012/08/install-sublime-packages-from-github.html).
 
-###Preview pictures (not always 100% up to date)
+###Preview pictures
+
+Last updated: Feb. 25th, 2015
 
 **Standard version**
 
