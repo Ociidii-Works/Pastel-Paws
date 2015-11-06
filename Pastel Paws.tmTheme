@@ -14,29 +14,29 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#212326</string>
+				<string>#191c20</string>
 				<key>caret</key>
 				<string>#fed034</string>
 				<key>foreground</key>
-				<string>#ababab</string>
+				<string>#a0a0a0</string>
 				<key>invisibles</key>
-				<string>#1f2223</string>
+				<string>#21352b</string>
 				<key>lineHighlight</key>
-				<string>#2D2830</string>
+				<string>#273532</string>
 				<key>selection</key>
-				<string>#662C3C</string>
+				<string>#542b14</string>
 				<key>gutter</key>
-				<string>#1F2124</string>
+				<string>#121416</string>
 				<key>gutterForeground</key>
 				<string>#4c4c4c</string>
 				<key>minimapBorder</key>
 				<string>#d0d0d0</string>
 				<key>activeGuide</key>
-				<string>#2b2b2b</string>
+				<string>#050505</string>
 				<key>findHighlight</key>
 				<string>#706d63</string>
 				<key>guide</key>
-				<string>#5e5e5e</string>
+				<string>#353535</string>
 			</dict>
 		</dict>
 		<dict>
@@ -47,9 +47,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#436164</string>
-				<key>fontStyle</key>
-				<string>italic</string>
+				<string>#40565E</string>
 			</dict>
 		</dict>
 		<dict>
@@ -427,7 +425,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8ca099</string>
+				<string>#82b1a1</string>
 			</dict>
 		</dict>
 		<dict>
