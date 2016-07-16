@@ -31,12 +31,14 @@
 				<string>#4c4c4c</string>
 				<key>minimapBorder</key>
 				<string>#d0d0d0</string>
-				<key>activeGuide</key>
-				<string>#050505</string>
-				<key>findHighlight</key>
-				<string>#706d63</string>
 				<key>guide</key>
 				<string>#353535</string>
+				<key>activeGuide</key>
+				<string>#8f8f8f</string>
+				<key>stackGuide</key>
+				<string>#60566B</string>
+				<key>findHighlight</key>
+				<string>#706d63</string>
 			</dict>
 		</dict>
 		<dict>
