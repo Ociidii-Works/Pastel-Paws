@@ -1,0 +1,12 @@
+Pastel-Paws 1.1.22
+-------------------------
+
+Changed colors:
+- Selection
+- Caret
+- Highlight
+- Highlight selection
+- Search highlight
+- ActiveGuide
+- Gutter
+- Maybe more I forgot.
