@@ -14,7 +14,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#272A35</string>
+				<string>#262934</string>
 				<key>caret</key>
 				<string>#4D925B</string>
 				<key>foreground</key>
@@ -28,9 +28,9 @@
 				<key>selectionBorder</key>
 				<string>#5C412D</string>
 				<key>gutter</key>
-				<string>#1B1E21</string>
+				<string>#22252F</string>
 				<key>gutterForeground</key>
-				<string>#4c4c4c</string>
+				<string>#727272</string>
 				<key>minimapBorder</key>
 				<string>#d0d0d0</string>
 				<key>guide</key>
