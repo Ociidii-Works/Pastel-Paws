@@ -14,7 +14,7 @@
 				<key>settings</key>
 				<dict>
 					<key>background</key>
-					<string>#262934</string>
+					<string>#21242B</string>
 					<key>caret</key>
 					<string>#4D925B</string>
 					<key>foreground</key>
@@ -51,7 +51,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#DA5C5C</string>
+					<string>#546167</string>
 				</dict>
 			</dict>
 			<dict>
@@ -78,17 +78,6 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Bracket Curly</string>
-				<key>scope</key>
-				<string>brackethighlighter.curly</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key>
-					<string>#c3f653</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>name</key>
 				<string>Bracket Default</string>
 				<key>scope</key>
 				<string>brackethighlighter.default</string>
@@ -96,6 +85,17 @@
 				<dict>
 					<key>foreground</key>
 					<string>#46c8ff</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bracket Curly</string>
+				<key>scope</key>
+				<string>brackethighlighter.curly</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#c3f653</string>
 				</dict>
 			</dict>
 			<dict>
@@ -505,7 +505,7 @@
 					<key>fontStyle</key>
 					<string> underline</string>
 					<key>foreground</key>
-					<string>#956699</string>
+					<string>#51CFA7</string>
 				</dict>
 			</dict>
 			<dict>
@@ -593,7 +593,7 @@
 					<string>#f75e2b</string>
 				</dict>
 			</dict>
-			<dict>
+<!-- 			<dict>
 				<key>name</key>
 				<string>Keyword</string>
 				<key>scope</key>
@@ -605,7 +605,7 @@
 					<key>foreground</key>
 					<string>#d6697c</string>
 				</dict>
-			</dict>
+			</dict> -->
 			<dict>
 				<key>name</key>
 				<string>LESS units</string>
@@ -687,6 +687,8 @@
 				<dict>
 					<key>fontStyle</key>
 					<string></string>
+					<key>foreground</key>
+					<string>#B96CAF</string>
 				</dict>
 			</dict>
 			<dict>
@@ -975,7 +977,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#6A6E84</string>
+					<string>#B67E4C</string>
 				</dict>
 			</dict>
 			<dict>
@@ -1152,7 +1154,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#c3f660</string>
+					<string>#8F698B</string>
 				</dict>
 			</dict>
 			<dict>
@@ -1165,7 +1167,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#5e6c46</string>
+					<string>#4B8949</string>
 				</dict>
 			</dict>
 			<dict>
@@ -1339,7 +1341,7 @@
 					<string>#b0f8ff</string>
 				</dict>
 			</dict>
-			<dict>
+<!-- 			<dict>
 				<key>name</key>
 				<string>Twig Keywords</string>
 				<key>scope</key>
@@ -1349,7 +1351,7 @@
 					<key>foreground</key>
 					<string>#f488ac</string>
 				</dict>
-			</dict>
+			</dict> -->
 			<dict>
 				<key>name</key>
 				<string>Twig Language Constants</string>
@@ -1451,7 +1453,7 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Variable</string>
+				<string>Variable (default/all languages)</string>
 				<key>scope</key>
 				<string>variable</string>
 				<key>settings</key>
@@ -1459,7 +1461,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#908B42</string>
+					<string>#8CB37B</string>
 				</dict>
 			</dict>
 			<dict>
