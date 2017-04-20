@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-unix=-crlf
+unix= -crlf
 * unix
 *.txt unix
 *.c unix
