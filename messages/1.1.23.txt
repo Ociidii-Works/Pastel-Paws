@@ -1,0 +1,5 @@
+Pastel-Paws 1.1.23
+-------------------------
+
+I'm trying to make this theme still worthy of its name while not being too obnoxious
+Please take a moment to get used to the new colors, and feel free to suggess improvement on the bug tracker: https://github.com/Ociidii-Works/pastel_paws/issues
