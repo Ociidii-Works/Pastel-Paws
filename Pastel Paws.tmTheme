@@ -14,7 +14,7 @@
 				<key>settings</key>
 				<dict>
 					<key>background</key>
-					<string>#21242B</string>
+					<string>#1F2329</string>
 					<key>caret</key>
 					<string>#4D925B</string>
 					<key>foreground</key>
@@ -24,23 +24,19 @@
 					<key>lineHighlight</key>
 					<string>#293441</string>
 					<key>selection</key>
-					<string>#2D271E</string>
 					<key>selectionBorder</key>
-					<string>#5C412D</string>
-					<key>gutter</key>
-					<string>#22252F</string>
 					<key>gutterForeground</key>
-					<string>#727272</string>
+					<string>#6D4D40</string>
 					<key>minimapBorder</key>
 					<string>#d0d0d0</string>
 					<key>guide</key>
 					<string>#353535</string>
 					<key>activeGuide</key>
-					<string>#B46129</string>
+					<string>#8B6849</string>
 					<key>stackGuide</key>
-					<string>#60566B</string>
+					<string>#7B6A8D</string>
 					<key>findHighlight</key>
-					<string>#296A4B</string>
+					<string>#92B535</string>
 				</dict>
 			</dict>
 			<dict>
@@ -50,8 +46,10 @@
 				<string>comment</string>
 				<key>settings</key>
 				<dict>
+					<key>fontStyle</key>
+					<string>italic</string>
 					<key>foreground</key>
-					<string>#546167</string>
+					<string>#475E66</string>
 				</dict>
 			</dict>
 			<dict>
@@ -78,17 +76,6 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Bracket Default</string>
-				<key>scope</key>
-				<string>brackethighlighter.default</string>
-				<key>settings</key>
-				<dict>
-					<key>foreground</key>
-					<string>#46c8ff</string>
-				</dict>
-			</dict>
-			<dict>
-				<key>name</key>
 				<string>Bracket Curly</string>
 				<key>scope</key>
 				<string>brackethighlighter.curly</string>
@@ -96,6 +83,17 @@
 				<dict>
 					<key>foreground</key>
 					<string>#c3f653</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>Bracket Default</string>
+				<key>scope</key>
+				<string>brackethighlighter.default</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#46c8ff</string>
 				</dict>
 			</dict>
 			<dict>
@@ -139,7 +137,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#c5854d</string>
+					<string>#FFF263</string>
 				</dict>
 			</dict>
 			<dict>
@@ -174,7 +172,7 @@
 					<key>fontStyle</key>
 					<string>underline</string>
 					<key>foreground</key>
-					<string>#d5ef85</string>
+					<string>#9BA749</string>
 				</dict>
 			</dict>
 			<dict>
@@ -505,7 +503,7 @@
 					<key>fontStyle</key>
 					<string> underline</string>
 					<key>foreground</key>
-					<string>#51CFA7</string>
+					<string>#A569AA</string>
 				</dict>
 			</dict>
 			<dict>
@@ -549,7 +547,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#823a3a</string>
+					<string>#5B9928</string>
 				</dict>
 			</dict>
 			<dict>
@@ -593,7 +591,7 @@
 					<string>#f75e2b</string>
 				</dict>
 			</dict>
-<!-- 			<dict>
+			<dict>
 				<key>name</key>
 				<string>Keyword</string>
 				<key>scope</key>
@@ -603,9 +601,9 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#d6697c</string>
+					<string>#A34B55</string>
 				</dict>
-			</dict> -->
+			</dict>
 			<dict>
 				<key>name</key>
 				<string>LESS units</string>
@@ -688,7 +686,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#B96CAF</string>
+					<string>#FA53CD</string>
 				</dict>
 			</dict>
 			<dict>
@@ -964,7 +962,7 @@
 					<key>fontStyle</key>
 					<string>italic</string>
 					<key>foreground</key>
-					<string>#528096</string>
+					<string>#557C9A</string>
 				</dict>
 			</dict>
 			<dict>
@@ -977,7 +975,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#B67E4C</string>
+					<string>#C48A52</string>
 				</dict>
 			</dict>
 			<dict>
@@ -1154,7 +1152,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#8F698B</string>
+					<string>#6B7D47</string>
 				</dict>
 			</dict>
 			<dict>
@@ -1167,7 +1165,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#4B8949</string>
+					<string>#4F7D47</string>
 				</dict>
 			</dict>
 			<dict>
@@ -1341,7 +1339,7 @@
 					<string>#b0f8ff</string>
 				</dict>
 			</dict>
-<!-- 			<dict>
+			<dict>
 				<key>name</key>
 				<string>Twig Keywords</string>
 				<key>scope</key>
@@ -1351,7 +1349,7 @@
 					<key>foreground</key>
 					<string>#f488ac</string>
 				</dict>
-			</dict> -->
+			</dict>
 			<dict>
 				<key>name</key>
 				<string>Twig Language Constants</string>
@@ -1453,7 +1451,7 @@
 			</dict>
 			<dict>
 				<key>name</key>
-				<string>Variable (default/all languages)</string>
+				<string>Variable</string>
 				<key>scope</key>
 				<string>variable</string>
 				<key>settings</key>
@@ -1461,7 +1459,7 @@
 					<key>fontStyle</key>
 					<string>bold</string>
 					<key>foreground</key>
-					<string>#8CB37B</string>
+					<string>#62954C</string>
 				</dict>
 			</dict>
 			<dict>
