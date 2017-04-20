@@ -24,7 +24,9 @@
 					<key>lineHighlight</key>
 					<string>#293441</string>
 					<key>selection</key>
+					<string>#62381E</string>
 					<key>selectionBorder</key>
+					<string>#562F18</string>
 					<key>gutterForeground</key>
 					<string>#6D4D40</string>
 					<key>minimapBorder</key>
