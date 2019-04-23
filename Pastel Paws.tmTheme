@@ -1400,6 +1400,104 @@
 				<string>#D02000</string>
 			</dict>
 		</dict>
+    	<dict>
+    	    <key>name</key>
+    	    <string>Hash String</string>
+    	    <key>scope</key>
+    	    <string>meta.structure.dictionary string</string>
+    	    <key>settings</key>
+    	    <dict>
+    	        <key>foreground</key>
+    	        <string>#E6DB74</string>
+    	    </dict>
+    	</dict>
+    	<dict>
+    	    <key>name</key>
+    	    <string>Hash Key String</string>
+    	    <key>scope</key>
+    	    <string>string.quoted.double.key, meta.structure.dictionary.key string</string>
+    	    <key>settings</key>
+    	    <dict>
+    	        <key>foreground</key>
+    	        <string>#66D9EF</string>
+    	    </dict>
+    	</dict>
+    	<dict>
+        <key>name</key>
+        <string>Function Call</string>
+        <key>scope</key>
+        <string>meta.function-call.generic, meta.function-call.object, meta.function-call.static</string>
+        <key>settings</key>
+        <dict>
+            <key>fontStyle</key>
+            <string></string>
+            <key>foreground</key>
+            <string>#FF80F4</string>
+        </dict>
+    	</dict>
+    	<dict>
+    	        <key>name</key>
+    	        <string>Markdown Background</string>
+    	        <key>scope</key>
+    	        <string>markup.raw.block.markdown, markup.raw.inline.markdown</string>
+    	        <key>settings</key>
+    	        <dict>
+    	            <key>background</key>
+    	            <string>#262626</string>
+    	        </dict>
+    	</dict>
+    	        <dict>
+            <key>name</key>
+            <string>Markup: Strikethrough</string>
+            <key>scope</key>
+            <string>markup.strikethrough</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#CC99CC</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markdown: Bold</string>
+            <key>scope</key>
+            <string>markup.bold</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>bold</string>
+                <key>foreground</key>
+                <string>#CC99CC</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markup: Italic</string>
+            <key>scope</key>
+            <string>markup.italic</string>
+            <key>settings</key>
+            <dict>
+                <key>fontStyle</key>
+                <string>italic</string>
+                <key>foreground</key>
+                <string>#CC99CC</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>Markup: Emoji</string>
+            <key>scope</key>
+            <string>markup.emoji</string>
+            <key>settings</key>
+            <dict>
+                <key>background</key>
+                <string></string>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#F2777A</string>
+            </dict>
+        </dict>
 	</array>
 	<key>uuid</key>
 	<string>a1024e0c-3033-4f5b-a544-5ca156b8680e</string>
